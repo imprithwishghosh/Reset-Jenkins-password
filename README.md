@@ -2,8 +2,8 @@
 
 jenkins password reset steps 
 
-# steps 
-here are the steps you need to follow :
+# steps needs to observed .
+here are the steps  :
 # step 1 : choose your distribution 
 Mac os : /Users/your_mac_username_folder/ .jenkins
 linux : /var/lib/jenkins
